@@ -30,15 +30,15 @@ jobs:
           git add -A
           
           arr[0]="chore(bot): 😂 auto commit"
-          arr[1]="chore(bot): 😱 auto commit"
-          arr[2]="chore(bot): 👿 auto commit"
-          arr[3]="chore(bot): 💩 auto commit"
-          arr[4]="chore(bot): 🙏 auto commit"
-          arr[5]="chore(bot): 🙈 auto commit"
-          arr[6]="chore(bot): 🐐 auto commit"
-          arr[7]="chore(bot): 🤖 auto commit"
-          arr[8]="chore(bot): 🟩 auto commit"
-          arr[9]="chore(bot): 👻 auto commit"
+          arr[1]="chore(bot): 😱 Great it work"
+          arr[2]="chore(bot): 👿 Oh god love this, keep it up sir"
+          arr[3]="chore(bot): Yapss no problem"
+          arr[4]="chore(bot): 🙏 Thank you"
+          arr[5]="chore(bot): Nothing problem while use it and great"
+          arr[6]="chore(bot): Wah are you comeback?"
+          arr[7]="chore(bot): 🤖 lets work like a robot"
+          arr[8]="chore(bot): 🟩 Lets goooo make it green"
+          arr[9]="chore(bot): 👻 Lol i feel it like a ghost"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
